@@ -6,6 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Hola {{ $name }}! Como estas?...</h1>
+    <h1>Admin Index</h1>
 </body>
 </html>
